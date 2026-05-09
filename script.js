@@ -10,7 +10,7 @@ const dataZikir = {
     'subhanallah': { latin: 'Subhanallah', audio: 'audio/subhanallah.mp3' },
     'alhamdulillah': { latin: 'Alhamdulillah', audio: 'audio/alhamdulillah.mp3' },
     'allahuakbar': { latin: 'Allahu Akbar', audio: 'audio/allahuakbar.mp3' },
-    'lailahaillallah': { latin: 'La ilaha illallah', audio: 'audio/Lailahaillallah.mp3' },
+    'lailahaillallah': { latin: 'La ilaha illallah', audio: 'audio/lailahaillallah.mp3' },
     'astaghfirullah': { latin: 'Astaghfirullah', audio: 'audio/astaghfirullah.mp3' }
 };
 
